@@ -1,0 +1,25 @@
+@media screen and (max-width: 650px) {
+    .homeP1 {
+        font-size: 45px;
+    }
+    .homeP2 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .homeP1 {
+        font-size: 30px;
+    }
+    .homeP2 {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .text {
+        display: none;
+        visibility: hidden;
+        color: #f00;
+    }
+}
